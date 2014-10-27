@@ -1,8 +1,8 @@
-[04:22:23] [main/INFO]: Setting user: Player430
-[04:22:28] [Client thread/INFO]: LWJGL Version: 2.9.1
-[04:22:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§5MiscCraft
-[04:22:41] [Sound Library Loader/INFO]: Sound engine started
-[04:22:42] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_222_SystemLights.png
+[17:57:57] [main/INFO]: Setting user: Player925
+[17:58:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:58:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§5MiscCraft
+[17:58:16] [Sound Library Loader/INFO]: Sound engine started
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_222_SystemLights.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_222_SystemLights.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -32,7 +32,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_222_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:42] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_221_BullSummonBlock.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_221_BullSummonBlock.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_221_BullSummonBlock.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -62,7 +62,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_221_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:42] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/WindmillBlock.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/WindmillBlock.png
 java.io.FileNotFoundException: misccraft:textures/blocks/WindmillBlock.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -92,7 +92,7 @@ java.io.FileNotFoundException: misccraft:textures/blocks/WindmillBlock.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:42] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_215_RandomBlock.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_215_RandomBlock.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_215_RandomBlock.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -122,7 +122,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_215_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:42] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/RedDragonEggPNG.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/RedDragonEggPNG.png
 java.io.FileNotFoundException: misccraft:textures/blocks/RedDragonEggPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -152,7 +152,7 @@ java.io.FileNotFoundException: misccraft:textures/blocks/RedDragonEggPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:43] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_217_MobSpawnBlocker.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_217_MobSpawnBlocker.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_217_MobSpawnBlocker.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -182,7 +182,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_217_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:43] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_211_Pipe.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_211_Pipe.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_211_Pipe.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -212,7 +212,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_211_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:43] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_223_FireHydrant.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_223_FireHydrant.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_223_FireHydrant.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -242,7 +242,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_223_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:43] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_208_Wire.png
+[17:58:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_208_Wire.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_208_Wire.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -272,8 +272,8 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_208_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeHelmetPNG.png
+[17:58:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:58:19] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeHelmetPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeHelmetPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -303,7 +303,7 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeHelmetPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/HydrantPNG.png
+[17:58:19] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/HydrantPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/HydrantPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -333,7 +333,7 @@ java.io.FileNotFoundException: misccraft:textures/items/HydrantPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeLeggingsPNG.png
+[17:58:19] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeLeggingsPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeLeggingsPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -363,7 +363,7 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeLeggingsPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeBootsPNG.png
+[17:58:19] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeBootsPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeBootsPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -393,7 +393,7 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeBootsPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeChestplatePNG.png
+[17:58:19] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeChestplatePNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeChestplatePNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -423,8 +423,8 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeChestplatePNG.pn
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[04:22:44] [Client thread/WARN]: Failed to load texture: modid:textures/entity/sphere.png
+[17:58:19] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[17:58:20] [Client thread/WARN]: Failed to load texture: modid:textures/entity/sphere.png
 java.io.FileNotFoundException: modid:textures/entity/sphere.png
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:71) ~[SimpleReloadableResourceManager.class:?]
 	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:35) ~[SimpleTexture.class:?]
@@ -482,8 +482,8 @@ java.io.FileNotFoundException: modid:textures/entity/sphere.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§5MiscCraft
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeHelmetPNG.png
+[17:58:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§5MiscCraft
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeHelmetPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeHelmetPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -516,7 +516,7 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeHelmetPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/HydrantPNG.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/HydrantPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/HydrantPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -549,7 +549,7 @@ java.io.FileNotFoundException: misccraft:textures/items/HydrantPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeLeggingsPNG.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeLeggingsPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeLeggingsPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -582,7 +582,7 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeLeggingsPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeBootsPNG.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeBootsPNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeBootsPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -615,7 +615,7 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeBootsPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:44] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeChestplatePNG.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/items/PineconeChestplatePNG.png
 java.io.FileNotFoundException: misccraft:textures/items/PineconeChestplatePNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -648,8 +648,8 @@ java.io.FileNotFoundException: misccraft:textures/items/PineconeChestplatePNG.pn
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_222_SystemLights.png
+[17:58:20] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_222_SystemLights.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_222_SystemLights.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -682,7 +682,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_222_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_221_BullSummonBlock.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_221_BullSummonBlock.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_221_BullSummonBlock.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -715,7 +715,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_221_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/WindmillBlock.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/WindmillBlock.png
 java.io.FileNotFoundException: misccraft:textures/blocks/WindmillBlock.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -748,7 +748,7 @@ java.io.FileNotFoundException: misccraft:textures/blocks/WindmillBlock.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_215_RandomBlock.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_215_RandomBlock.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_215_RandomBlock.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -781,7 +781,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_215_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/RedDragonEggPNG.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load misccraft:textures/blocks/RedDragonEggPNG.png
 java.io.FileNotFoundException: misccraft:textures/blocks/RedDragonEggPNG.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -814,7 +814,7 @@ java.io.FileNotFoundException: misccraft:textures/blocks/RedDragonEggPNG.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_217_MobSpawnBlocker.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_217_MobSpawnBlocker.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_217_MobSpawnBlocker.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -847,7 +847,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_217_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_211_Pipe.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_211_Pipe.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_211_Pipe.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -880,7 +880,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_211_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_223_FireHydrant.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_223_FireHydrant.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_223_FireHydrant.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -913,7 +913,7 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_223_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_208_Wire.png
+[17:58:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_208_Wire.png
 java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_208_Wire.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -946,57 +946,38 @@ java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_208_
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_45]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_45]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[04:22:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[04:22:46] [Sound Library Loader/INFO]: Sound engine started
-[04:22:46] [Client thread/ERROR]: ########## GL ERROR ##########
-[04:22:46] [Client thread/ERROR]: @ Post startup
-[04:22:46] [Client thread/ERROR]: 1281: Invalid value
-[04:24:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[04:24:54] [Server thread/INFO]: Generating keypair
-[04:24:55] [Server thread/INFO]: Preparing start region for level 0
-[04:24:56] [Server thread/INFO]: Changing view distance to 8, from 10
-[04:24:57] [Server thread/INFO]: Player430[local:E:23937b37] logged in with entity id 240 at (1867.6369090708172, 6.490643189201405, 1119.8944534750194)
-[04:24:57] [Server thread/INFO]: Player430 joined the game
-[04:25:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5955ms behind, skipping 119 tick(s)
-[04:25:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4295ms behind, skipping 85 tick(s)
-[04:25:53] [Server thread/INFO]: Saving and pausing game...
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[04:25:53] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
-[04:27:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 71259ms behind, skipping 1425 tick(s)
-[06:14:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6395989ms behind, skipping 127919 tick(s)
-[06:16:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 65684ms behind, skipping 1313 tick(s)
-[08:02:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6412115ms behind, skipping 128242 tick(s)
-[08:04:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 65712ms behind, skipping 1314 tick(s)
-[09:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6412670ms behind, skipping 128253 tick(s)
-[09:51:54] [Server thread/WARN]: Time ran backwards! Did the system time change?
-[09:53:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 65946ms behind, skipping 1318 tick(s)
-[11:40:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6411360ms behind, skipping 128227 tick(s)
-[11:40:45] [Server thread/WARN]: Time ran backwards! Did the system time change?
-[11:42:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 65954ms behind, skipping 1319 tick(s)
-[11:57:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 895610ms behind, skipping 17912 tick(s)
-[11:57:40] [Server thread/WARN]: Time ran backwards! Did the system time change?
-[11:58:31] [Server thread/INFO]: Saving and pausing game...
-[11:58:31] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:58:31] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:58:31] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:58:31] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
-[11:58:46] [Server thread/INFO]: Saving and pausing game...
-[11:58:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:58:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:58:46] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:58:46] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
-[11:58:56] [Server thread/INFO]: Saving and pausing game...
-[11:58:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:58:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:58:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:58:56] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
-[11:58:57] [Server thread/INFO]: Stopping server
-[11:58:57] [Server thread/INFO]: Saving players
-[11:58:57] [Server thread/INFO]: Saving worlds
-[11:58:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:58:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:58:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:58:57] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
-[11:58:59] [Client thread/INFO]: Stopping!
+[17:58:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:58:21] [Sound Library Loader/INFO]: Sound engine started
+[17:58:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[17:58:22] [Client thread/ERROR]: @ Post startup
+[17:58:22] [Client thread/ERROR]: 1281: Invalid value
+[17:58:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:58:26] [Server thread/INFO]: Generating keypair
+[17:58:27] [Server thread/INFO]: Preparing start region for level 0
+[17:58:29] [Server thread/INFO]: Changing view distance to 8, from 10
+[17:58:29] [Server thread/INFO]: Player925[local:E:4c1ec64d] logged in with entity id 306 at (1863.5, 4.0, 1137.5)
+[17:58:29] [Server thread/INFO]: Player925 joined the game
+[17:58:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3246ms behind, skipping 64 tick(s)
+[17:58:43] [Server thread/INFO]: Saving and pausing game...
+[17:58:43] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:58:43] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:58:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:58:43] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
+[17:59:05] [Server thread/INFO]: Saving and pausing game...
+[17:59:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:59:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:59:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:59:05] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
+[18:04:12] [Server thread/INFO]: Saving and pausing game...
+[18:04:12] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:04:12] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:04:12] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:04:12] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
+[18:04:13] [Server thread/INFO]: Stopping server
+[18:04:13] [Server thread/INFO]: Saving players
+[18:04:13] [Server thread/INFO]: Saving worlds
+[18:04:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:04:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:04:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:04:13] [Server thread/INFO]: Saving chunks for level 'New World'/Platinum
+[18:04:15] [Client thread/INFO]: Stopping!
